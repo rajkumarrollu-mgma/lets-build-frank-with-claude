@@ -1,0 +1,2 @@
+# The console build is copied here only inside the image (see ../Dockerfile).
+public/
